@@ -1,0 +1,3 @@
+D:\Projects\C#\DMS\bin\Debug\ScreenSaver.exe.config
+D:\Projects\C#\DMS\obj\Debug\ScreenSaver.exe
+D:\Projects\C#\DMS\obj\Debug\ScreenSaver.pdb

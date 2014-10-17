@@ -1,0 +1,8 @@
+D:\Projects\C#\C# 실전 프로젝트\ScreenSaver\ScreenSaver\bin\Release\ScreenSaver.exe.config
+D:\Projects\C#\C# 실전 프로젝트\ScreenSaver\ScreenSaver\bin\Release\ScreenSaver.exe
+D:\Projects\C#\C# 실전 프로젝트\ScreenSaver\ScreenSaver\bin\Release\ScreenSaver.pdb
+D:\Projects\C#\C# 실전 프로젝트\ScreenSaver\ScreenSaver\obj\Release\ScreenSaver.Form1.resources
+D:\Projects\C#\C# 실전 프로젝트\ScreenSaver\ScreenSaver\obj\Release\ScreenSaver.Properties.Resources.resources
+D:\Projects\C#\C# 실전 프로젝트\ScreenSaver\ScreenSaver\obj\Release\ScreenSaver.csproj.GenerateResource.Cache
+D:\Projects\C#\C# 실전 프로젝트\ScreenSaver\ScreenSaver\obj\Release\ScreenSaver.exe
+D:\Projects\C#\C# 실전 프로젝트\ScreenSaver\ScreenSaver\obj\Release\ScreenSaver.pdb
