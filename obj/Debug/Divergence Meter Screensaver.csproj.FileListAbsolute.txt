@@ -1,0 +1,9 @@
+D:\Projects\C#\Divergence-Meter-Screensaver\bin\Debug\ScreenSaver.exe.config
+D:\Projects\C#\Divergence-Meter-Screensaver\obj\Debug\ScreenSaver.exe
+D:\Projects\C#\Divergence-Meter-Screensaver\obj\Debug\ScreenSaver.pdb
+D:\Projects\C#\Divergence-Meter-Screensaver\bin\Debug\ScreenSaver.exe
+D:\Projects\C#\Divergence-Meter-Screensaver\bin\Debug\ScreenSaver.pdb
+D:\Projects\C#\Divergence-Meter-Screensaver\obj\Debug\Divergence Meter Screensaver.csprojResolveAssemblyReference.cache
+D:\Projects\C#\Divergence-Meter-Screensaver\obj\Debug\ScreenSaver.Form1.resources
+D:\Projects\C#\Divergence-Meter-Screensaver\obj\Debug\ScreenSaver.Properties.Resources.resources
+D:\Projects\C#\Divergence-Meter-Screensaver\obj\Debug\Divergence Meter Screensaver.csproj.GenerateResource.Cache
