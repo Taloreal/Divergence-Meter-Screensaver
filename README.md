@@ -1,6 +1,8 @@
 Divergence-Meter-Screensaver
 ============================
 
+<img src="http://i.imgur.com/DT8KTVW.png">
+
 Steins; gate Divergence Meter Screensaver
 
 애니메이션 '슈타인즈 게이트'에 나오는 다이버전스 미터를 모방하여 만들었습니다. 왼쪽부터 차례대로 시 분 초를 나타냅니다.
@@ -15,3 +17,4 @@ Steins; gate Divergence Meter Screensaver
 
 다운받은 파일을 압축 해제한 뒤 나오는 DMS.scr 파일을 마우스 우클릭하여 나오는 메뉴에서 설치(I)를 클립합니다.
 이후 나오는 화면 보호기 설정 창에서 확인(A)을 누르면 됩니다.
+
