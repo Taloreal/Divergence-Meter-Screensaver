@@ -87,7 +87,6 @@ namespace ScreenSaver
             Application.Exit();
         }
         bool minuteChanged;
-        bool HourChanged;
         bool SecondChanged;
 
         bool minuteTrigger;
@@ -137,7 +136,7 @@ namespace ScreenSaver
         private void DrawHour(ref int Count)
         {
             string mHour = DateTime.Now.Hour.ToString();
-            if (!HourChanged)
+            if (true)
             {
                 if (int.Parse(mHour) < 10)
                 {
@@ -150,17 +149,6 @@ namespace ScreenSaver
                     DrawDivergenceMeter((mHour[1]), new Point(HotSpot.X + ((imageSize.X + Space) * Count++), HotSpot.Y));
                 }
                 hourTrigger = false;
-            }
-            else
-            {
-                Random rNum = new Random();
-
-                DrawDivergenceMeter(Convert.ToChar(rNum.Next(10) + '0'), new Point(HotSpot.X + ((imageSize.X + Space) * Count++), HotSpot.Y));
-                DrawDivergenceMeter(Convert.ToChar(rNum.Next(10) + '0'), new Point(HotSpot.X + ((imageSize.X + Space) * Count++), HotSpot.Y));
-
-                if (DateTime.Now.Millisecond < 400)
-                    HourChanged = false;
-
             }
         }
         private void DrawMinute(ref int Count)
@@ -194,7 +182,6 @@ namespace ScreenSaver
             }
             if (DateTime.Now.Minute == 0 && hourTrigger == false)
             {
-                HourChanged = true;
                 hourTrigger = true;
             }
             if(DateTime.Now.Minute == 1)
